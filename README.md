@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @krnchaudhari
 - 👀 I’m ETL Developer..
-- 📫 How to reach me @kirankit143...
+- 📫 How to reach me kiranwork97@gmail.com
