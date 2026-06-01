@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @krnchaudhari
-- 👀 I’m ETL Developer..
+- 👀 I’m Data Engineer..
 - 📫 How to reach me kiranwork97@gmail.com
